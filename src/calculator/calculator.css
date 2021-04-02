@@ -2,3 +2,8 @@
 #result {
   padding-bottom: 10px;
 }
+
+.limits {
+  display: flex;
+  flex-direction: column;
+}
